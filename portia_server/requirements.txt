@@ -1,5 +1,5 @@
 crochet==1.6.0
-django==1.10.5
+django==1.11.29
 django-cache-machine==0.9.1
 djangorestframework==3.4.1
 dj-database-url==0.4.2
