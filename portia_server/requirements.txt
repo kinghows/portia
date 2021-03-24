@@ -1,7 +1,7 @@
 crochet==1.6.0
 django==1.10.5
 django-cache-machine==0.9.1
-djangorestframework==3.4.1
+djangorestframework==3.11.2
 dj-database-url==0.4.2
 drf-nested-routers==0.11.1
 dulwich==0.16.2
